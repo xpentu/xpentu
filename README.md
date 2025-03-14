@@ -2,7 +2,6 @@
 
 ---
 # My Devices  
----
 
 ### Poco  
 - **Poco X5 Pro** (*redwood*)  
