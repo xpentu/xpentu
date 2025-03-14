@@ -1,28 +1,26 @@
-## Hello 👋
-
----
-# My Devices  
+# Devices  
 
 ### Poco  
-- **Poco X5 Pro** (*redwood*)  
-- **Poco X3 Pro** (*vayu*)  
+- **Poco X5 Pro** (*Redwood*, 2023)  
+- **Poco X3 Pro** (*Vayu*, 2021)  
 
 ### Xiaomi / Redmi  
-- **Xiaomi Mi 8 Lite** (*platina*)  
-- **Redmi Note 13 4G** (*sapphiren*)  
-- **Redmi 13C** (*gale*)  
-- **Redmi Note 8T** (*willow*)  
+- **Xiaomi Mi 8 Lite** (*Platina*, 2018)  
+- **Redmi Note 13 4G** (*Sapphiren*, 2023)  
+- **Redmi 13C** (*Gale*, 2023)  
+- **Redmi Note 8T** (*Willow*, 2019)  
 
 ### Samsung  
-- **Samsung Galaxy A71**  (*A715-F*) 
+- **Samsung Galaxy A71** (*A715-F*, 2019)  
 
 ### Sony  
-- **Sony Xperia E3**  
+- **Sony Xperia E3** (2014)  
 
 ### Huawei  
-- **Huawei Y9s**  
+- **Huawei Y9s** (2019)  
 
 ---
+
 
 
 <!--
