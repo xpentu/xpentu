@@ -16,8 +16,13 @@
 ### Sony  
 - **Sony Xperia E3** (2014)  
 
+### Apple  
+- **Apple iPhone 14 Pro** (2022)
+
 ### Huawei  
-- **Huawei Y9s** (2019)  
+- **Huawei Y9s** (2019)
+- **Huawei Nova 10 Pro** (2022)
+- **Huawei P30 Pro** (2019)
 
 ---
 
