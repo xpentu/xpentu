@@ -5,8 +5,8 @@
 - **Poco X3 Pro** († 2021-2025)
 
 ### Xiaomi / Redmi  
-- **Xiaomi Mi 8 Lite** († 2018-2020)
-- **Redmi Note 13 4G** (2024-) 
+- **Xiaomi Mi 8 Lite** (2018-)
+- **Redmi Note 13 4G** († 2024-2025) 
 - **Redmi 13C** (2023-)  
 - **Redmi Note 8T** (2019-)
 
@@ -14,14 +14,14 @@
 - **Samsung Galaxy A71** († 2019-2024)
 
 ### Sony  
-- **Sony Xperia E3** (2014-)  
+- **Sony Xperia E3** († 2014-2026)  
 
 ### Apple  
 - **Apple iPhone 14 Pro** (2023-)
 
 ### Huawei  
 - **Huawei Y9s** (2020-)
-- **Huawei Nova 10 Pro** (2023-)
+- **Huawei Nova 10 Pro** († 2023-2025)
 - **Huawei P30 Pro** († 2019-2025)
 
 ---
